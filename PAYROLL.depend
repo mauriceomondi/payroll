@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646746937 source:c:\users\exam\documents\frank\county library systems\payroll\main.c
+	<stdio.h>
+	<stdlib.h>
+
